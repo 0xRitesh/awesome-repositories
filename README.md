@@ -13,34 +13,34 @@
 
 ## ▶️ Content
 
-  - [API](#🔹api)
+  - [API](#api)
   - [Artificial Intelligence](#Artificial-Intelligence)
   - [Books](#books)
   - [CheatSheets](#cheatsheets)
   - [Cloud](#cloud)
-  - [Courses & Certifications](#🔹courses--certifications)
-  - [Frameworks](#🔹frameworks)
-  - [FrontEnd](#🔹frontend)
+  - [Courses & Certifications](#courses--certifications)
+  - [Frameworks](#frameworks)
+  - [FrontEnd](#frontend)
   - [Git & GitHub](#Git--GitHub)
   - [Programming Languages](#programming-languages)
   - [Web Development Tools](#Web-Development-Tools)
   - [Unix](#Unix)
   <hr>
   
-###  🔹 API
+###  API
 Repository  |   Description |   License |
 |---|---|---|
 |   [Public-Apis](https://github.com/public-apis/public-apis)  |   A collective list of free APIs  |   [MIT](https://github.com/public-apis/public-apis/blob/master/LICENSE) |
 
 
-### 🔹 Artificial Intelligence
+### Artificial Intelligence
 Repository  |   Description |   License |
 |---|---|---|
 |   [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)  |    A curated list of awesome Machine Learning frameworks, libraries and software   |    [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 
 
 
-### 🔹 Books
+### Books
 Repository  |   Description |   License |
 |---|---|---|
 |   [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)  |   :books: Freely available programming books  |   [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode ) |
@@ -51,7 +51,7 @@ Repository  |   Description |   License |
 |   [TypeScript Books](https://github.com/basarat/typescript-book)  |   :books: The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹  |   [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode ) |
 
 
-### 🔹 CheatSheets
+### CheatSheets
 Repository  |   Description |   License |
 |---|---|---|
 |   [Async-JavaScript](https://github.com/frontarm/async-javascript-cheatsheet)  |    Cheatsheet for promises and async/await.    |   [MIT](https://github.com/frontarm/async-javascript-cheatsheet/blob/master/LICENSE.md)  |
@@ -64,20 +64,20 @@ Repository  |   Description |   License |
 |   [Vim](https://github.com/pawelbr/vim-cheatsheet)  |    Shortcuts that will help you to become an advance VIM user.   |   [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode ) |
 
 
-### 🔹 Cloud
+### Cloud
 Repository  |   Description |   License |
 |---|---|---|
 |   [AWS](https://github.com/donnemartin/awesome-aws)  |    A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.    |   [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode ) |
 
 
-### 🔹 Courses & Certifications
+### Courses & Certifications
 Repository  |   Description |   License |
 |---|---|---|
 |   [GCP Training](https://github.com/GoogleCloudPlatform/training-data-analyst)  |    Labs and demos for courses for GCP Training     |   [Apache-2.0](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/LICENSE) |
 
 
 
-### 🔹 Frameworks
+### Frameworks
 Repository  |   Description |   License |
 |---|---|---|
 |   [CSS](https://github.com/troxler/awesome-css-frameworks)  |    List of awesome CSS frameworks   |   [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode ) |
@@ -87,14 +87,14 @@ Repository  |   Description |   License |
 |   [Vue](https://github.com/vuejs/awesome-vue)  |     🎉 A curated list of awesome things related to Vue.js   |   [MIT](https://github.com/vuejs/awesome-vue/blob/master/LICENSE ) |
 
 
-### 🔹 FrontEnd
+### FrontEnd
 Repository  |   Description |   License |
 |---|---|---|
 | [HTML5](https://github.com/diegocard/awesome-html5) | 📝 A curated list of awesome HTML5 resources  | [MIT](https://github.com/diegocard/awesome-html5/blob/master/LICENSE) |
 | [React](https://github.com/brillout/awesome-react-components) |  Curated List of React Components & Libraries  | [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 
 
-### 🔹 Git & GitHub
+### Git & GitHub
 Repository  |   Description |   License |
 |---|---|---|
 | [Basic](https://www.freecodecamp.org/news/git-and-github-crash-course/)  |Learn all you need to get started with Git and GitHub and get your first pull requests going.||
@@ -104,7 +104,7 @@ Repository  |   Description |   License |
 
 
 
-### 🔹 Programming Languages
+### Programming Languages
 Repository  |   Description |   License |
 |---|---|---|
 |   [C](https://github.com/oz123/awesome-c)   |   A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there  |   [CC-BY-SA-4.0](https://github.com/oz123/awesome-c/blob/master/LICENSE ) |
@@ -120,13 +120,13 @@ Repository  |   Description |   License |
 |   [Shell](https://github.com/alebcay/awesome-shell)   |    A curated list of awesome command-line frameworks, toolkits, guides and gizmos  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Swift](https://github.com/matteocrippa/awesome-swift)   |    A collaborative list of awesome Swift libraries and resources   |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 
-### 🔹 Web Development Tools
+### Web Development Tools
 Repository  |   Description |   License |
 |---|---|---|
 |[JetBrains Student License](https://www.jetbrains.com/community/education/#students)|Free individual licenses of the award-winning professional developer tools from JetBrains for students and faculty members.
 
 
-### 🔹 Unix
+### Unix
 Repository  |   Description |   License |
 |---|---|---|
 | [About Unix](https://kb.iu.edu/d/agat) | Key Unix terms and ideas; website created by Indiana University  | |
