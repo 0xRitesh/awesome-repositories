@@ -1,14 +1,15 @@
 <div align='center'> 
 
 # 📕 Useful GitHub Repositories
-  <p align="center">
-<img src="https://i.ibb.co/H4yJPTP/Git-Hub-Repos-That-Every-Developer-Should-Follow-1.png" >
-    
+
+<!--   Bannar -->
+  <img src="https://i.postimg.cc/C5ktS7PF/Git-Hub-Repos-That-Every-Developer-Should-Follow-1.png">
+    </div>
 <br>
 <!-- 
 ![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055) -->
 
-</div> 
+
 
 ## Content
 
@@ -96,7 +97,12 @@ Repository  |   Description |   License |
 ### Git & GitHub
 Repository  |   Description |   License |
 |---|---|---|
-|
+| [Basic](https://www.freecodecamp.org/news/git-and-github-crash-course/)  |Learn all you need to get started with Git and GitHub and get your first pull requests going.||
+| [Git And GitHub Guide](https://github.com/antonykidis/GitHub-guide)|A pictorial guide for learning Git and Github ||
+|[Git Reference Documentation](https://git-scm.com/docs)| A complete listing of Git's features and commands. The documentation is also available as a free ebook titled Pro Git.||
+|[GitHub Learning Lab](https://lab.github.com/)|Get the skills you need without leaving GitHub. GitHub Learning Lab takes you through a series of fun and practical projects, sharing helpful feedback along the way.||
+
+
 
 ### Programming Languages
 Repository  |   Description |   License |
@@ -113,6 +119,11 @@ Repository  |   Description |   License |
 |   [Rust](https://github.com/rust-unofficial/awesome-rust)   |    A curated list of Rust code and resources  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Shell](https://github.com/alebcay/awesome-shell)   |    A curated list of awesome command-line frameworks, toolkits, guides and gizmos  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Swift](https://github.com/matteocrippa/awesome-swift)   |    A collaborative list of awesome Swift libraries and resources   |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
+
+### Web Development Tools
+Repository  |   Description |   License |
+|---|---|---|
+|[JetBrains Student License](https://www.jetbrains.com/community/education/#students)|Free individual licenses of the award-winning professional developer tools from JetBrains for students and faculty members.
 
 
 ### Unix
