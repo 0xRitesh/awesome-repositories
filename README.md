@@ -100,7 +100,7 @@ Repository  |   Description |   License |
 | [Flask - Python framework](https://github.com/mjhea0/awesome-flask#readme) | Flask is a lightweight WSGI web application framework written in Python. | CC0-1.0 License |
 | [Docker](https://github.com/veggiemonk/awesome-docker#readme) |🐳 A curated list of Docker resources and projects | Apache-2.0 License |
 | [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme)| A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.|
-| [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)| A curated list for awesome kubernetes sources 🚢🎉|
+| [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)| A curated list for awesome kubernetes sources 🚢🎉| BY-NC 4.0|
 
 ### Git & GitHub
 Repository  |   Description |   License |
