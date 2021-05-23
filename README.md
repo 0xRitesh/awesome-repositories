@@ -20,7 +20,8 @@
   - [Cloud](#cloud)
   - [Courses & Certifications](#courses--certifications)
   - [Frameworks](#frameworks)
-  - [FrontEnd](#frontend)
+  - [Front-End Development](#Front-End Development)
+  - [Back-End Development](#Back-End Development)
   - [Git & GitHub](#Git--GitHub)
   - [Programming Languages](#programming-languages)
   - [Web Development Tools](#Web-Development-Tools)
@@ -87,12 +88,19 @@ Repository  |   Description |   License |
 |   [Vue](https://github.com/vuejs/awesome-vue)  |     🎉 A curated list of awesome things related to Vue.js   |   [MIT](https://github.com/vuejs/awesome-vue/blob/master/LICENSE ) |
 
 
-### FrontEnd
+### Front-End Development
 Repository  |   Description |   License |
 |---|---|---|
 | [HTML5](https://github.com/diegocard/awesome-html5) | 📝 A curated list of awesome HTML5 resources  | [MIT](https://github.com/diegocard/awesome-html5/blob/master/LICENSE) |
 | [React](https://github.com/brillout/awesome-react-components) |  Curated List of React Components & Libraries  | [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 
+### Back-End Development
+Repository  |   Description |   License |
+|---|---|---|
+| [Flask - Python framework](https://github.com/mjhea0/awesome-flask#readme) | Flask is a lightweight WSGI web application framework written in Python. | CC0-1.0 License |
+| [Docker](https://github.com/veggiemonk/awesome-docker#readme) |🐳 A curated list of Docker resources and projects | Apache-2.0 License |
+| [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme)| A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.|
+| [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)| A curated list for awesome kubernetes sources 🚢🎉|
 
 ### Git & GitHub
 Repository  |   Description |   License |
