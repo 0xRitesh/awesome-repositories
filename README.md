@@ -141,4 +141,3 @@ Repository  |   Description |   License |
 | [Basic Unix Commands](https://www.maths.ox.ac.uk/system/files/legacy/2356/basic-unix.pdf) | a guide from Oxford University on Unix commands | |
 | [linux-tutorials](https://www.linux.org/forums/#linux-tutorials.122) | Linux tutorials at the beginner, intermediate, and advanced levels, from the Linux Foundation. | |
 
-**[⬆ Back to Top](#content)**
