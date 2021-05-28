@@ -4,10 +4,14 @@
 
 <!--   Bannar -->
   <img src="https://i.postimg.cc/C5ktS7PF/Git-Hub-Repos-That-Every-Developer-Should-Follow-1.png">
-    </div>
+  
+  *A curated list of GitHub Repositories full of FREE Resources.* 
+  
+![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%1B48AB)
+
+
+ </div>
 <br>
-<!-- 
-![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055) -->
 
 
 
