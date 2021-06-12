@@ -144,6 +144,6 @@ Repository  |   Description |   License |
 | [About Unix](https://kb.iu.edu/d/agat) | Key Unix terms and ideas; website created by Indiana University  | |
 | [Basic Unix Commands](https://www.maths.ox.ac.uk/system/files/legacy/2356/basic-unix.pdf) | a guide from Oxford University on Unix commands | |
 | [linux-tutorials](https://www.linux.org/forums/#linux-tutorials.122) | Linux tutorials at the beginner, intermediate, and advanced levels, from the Linux Foundation. | |
-
+| [EDX: Introduction to Linux](https://www.edx.org/course/introduction-to-linux)| great intro to upper-intermediate course on what the hell is Linux
 ## License
  CC0-1.0 License
