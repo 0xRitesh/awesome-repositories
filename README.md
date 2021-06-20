@@ -30,6 +30,7 @@
   - [Programming Languages](#programming-languages)
   - [Web Development Tools](#Web-Development-Tools)
   - [Unix](#Unix)
+  - [Opportunities & Programs](#opportunities--programs)
   <hr>
   
 ###  API
