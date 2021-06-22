@@ -56,6 +56,7 @@ Repository  |   Description |   License |
 |   [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)  |   📚 Books everyone should read  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Python Books](https://github.com/Junnplus/awesome-python-books)  |   📚 Directory of Python books  |   [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode ) |
 |   [TypeScript Books](https://github.com/basarat/typescript-book)  |   :books: The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹  |   [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode ) |
+|   [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)  |   :books: Manually curated collection of resources for frontend web developers.  |  |
 
 
 ### CheatSheets
