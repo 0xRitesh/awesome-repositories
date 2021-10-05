@@ -29,6 +29,7 @@
   - [Git & GitHub](#Git--GitHub)
   - [Programming Languages](#programming-languages)
   - [Opportunities & Programs](#opportunities--programs)
+  - [Projects](#Projects)
   - [Web Development Tools](#Web-Development-Tools)
   - [Unix](#Unix)
   
@@ -138,6 +139,14 @@ Repository  |   Description |   License |
 |   [Rust](https://github.com/rust-unofficial/awesome-rust)   |    A curated list of Rust code and resources  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Shell](https://github.com/alebcay/awesome-shell)   |    A curated list of awesome command-line frameworks, toolkits, guides and gizmos  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Swift](https://github.com/matteocrippa/awesome-swift)   |    A collaborative list of awesome Swift libraries and resources   |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
+
+
+### Projects
+Repository  |   Description |   License |
+|---|---|---|
+|   [50projects50days](https://github.com/bradtraversy/50projects50days)   |   50+ mini web projects using HTML, CSS & JS   |   [MIT](https://github.com/bradtraversy/50projects50days#license) |
+|   [Vanilla Web Projects](https://github.com/bradtraversy/vanillawebprojects)   |    Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries   |  |
+
 
 ### Web Development Tools
 Repository  |   Description |   License |
