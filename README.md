@@ -20,7 +20,7 @@
   - [API](#api)
   - [Artificial Intelligence](#Artificial-Intelligence)
   - [Books](#books)
-  - [Competitive Programmin](#Competitive-Programming)
+  - [Competitive Programming](#Competitive-Programming)
   - [CheatSheets](#cheatsheets)
   - [Cloud](#cloud)
   - [Courses & Certifications](#courses--certifications)
