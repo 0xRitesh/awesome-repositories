@@ -30,6 +30,7 @@
   - [Git & GitHub](#Git--GitHub)
   - [Programming Languages](#programming-languages)
   - [Opportunities & Programs](#opportunities--programs)
+  - [Projects](#Projects)
   - [Web Development Tools](#Web-Development-Tools)
   - [Unix](#Unix)
   
@@ -107,8 +108,11 @@ Repository  |   Description |   License |
 ### Front-End Development
 Repository  |   Description |   License |
 |---|---|---|
+| [Front End Web Development](https://github.com/RitikPatni/Front-End-Web-Development-Resources) | This repository contains content which will be helpful in your journey as a front-end Web Developer  | [MIT](https://github.com/RitikPatni/Front-End-Web-Development-Resources/blob/master/LICENSE) |
 | [HTML5](https://github.com/diegocard/awesome-html5) | 📝 A curated list of awesome HTML5 resources  | [MIT](https://github.com/diegocard/awesome-html5/blob/master/LICENSE) |
 | [React](https://github.com/brillout/awesome-react-components) |  Curated List of React Components & Libraries  | [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
+| [Animate CSS](https://github.com/animate-css/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing  | [MIT](https://github.com/animate-css/animate.css/blob/main/LICENSE) |
+
 
 ### Back-End Development
 Repository  |   Description |   License |
@@ -143,6 +147,15 @@ Repository  |   Description |   License |
 |   [Rust](https://github.com/rust-unofficial/awesome-rust)   |    A curated list of Rust code and resources  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Shell](https://github.com/alebcay/awesome-shell)   |    A curated list of awesome command-line frameworks, toolkits, guides and gizmos  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Swift](https://github.com/matteocrippa/awesome-swift)   |    A collaborative list of awesome Swift libraries and resources   |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
+
+
+### Projects
+Repository  |   Description |   License |
+|---|---|---|
+|   [project ideas](https://github.com/NirantK/awesome-project-ideas)      |   Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas  | [MIT](https://github.com/NirantK/awesome-project-ideas/blob/master/LICENSE)  | 
+|   [50projects50days](https://github.com/bradtraversy/50projects50days)   |   50+ mini web projects using HTML, CSS & JS   |   [MIT](https://github.com/bradtraversy/50projects50days#license) |
+|   [Vanilla Web Projects](https://github.com/bradtraversy/vanillawebprojects)   |    Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries   |  |
+|   [React Projects](https://github.com/ajayns/react-projects)   |   A collection of projects built on the React library    |   [No License] |
 
 ### Web Development Tools
 Repository  |   Description |   License |
