@@ -24,6 +24,7 @@
   - [CheatSheets](#cheatsheets)
   - [Cloud](#cloud)
   - [Courses & Certifications](#courses--certifications)
+  - [Development](#Development)
   - [Frameworks](#frameworks)
   - [Front-End Development](#Front-End-Development)
   - [Back-End Development](#Back-End-Development)
@@ -33,7 +34,7 @@
   - [Projects](#Projects)
   - [Web Development Tools](#Web-Development-Tools)
   - [Unix](#Unix)
-   - [Web](#web)
+  - [Web](#web)
   
   <hr>
   
@@ -94,6 +95,10 @@ Repository  |   Description |   License |
 |---|---|---|
 |   [GCP Training](https://github.com/GoogleCloudPlatform/training-data-analyst)  |    Labs and demos for courses for GCP Training     |   [Apache-2.0](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/LICENSE) |
 
+
+### Development
+Repository  |   Description |   License |
+|---|---|---|
 
 
 ### Frameworks
