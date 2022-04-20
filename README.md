@@ -32,6 +32,7 @@
   - [Programming Languages](#programming-languages)
   - [Opportunities & Programs](#opportunities--programs)
   - [Projects](#Projects)
+  - [Security](#security)
   - [Web Development Tools](#Web-Development-Tools)
   - [Unix](#Unix)
   - [Web](#web)
@@ -165,6 +166,11 @@ Repository  |   Description |   License |
 |   [50projects50days](https://github.com/bradtraversy/50projects50days)   |   50+ mini web projects using HTML, CSS & JS   |   [MIT](https://github.com/bradtraversy/50projects50days#license) |
 |   [Vanilla Web Projects](https://github.com/bradtraversy/vanillawebprojects)   |    Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries   |  |
 |   [React Projects](https://github.com/ajayns/react-projects)   |   A collection of projects built on the React library    |   [No License] |
+
+
+### Security
+Repository  |   Description |   License |
+|---|---|---|
 
 ### Web Development Tools
 Repository  |   Description |   License |
