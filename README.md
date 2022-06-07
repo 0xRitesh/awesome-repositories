@@ -157,7 +157,7 @@ Repository  |   Description |   License |
 |   [Rust](https://github.com/rust-unofficial/awesome-rust)   |    A curated list of Rust code and resources  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Shell](https://github.com/alebcay/awesome-shell)   |    A curated list of awesome command-line frameworks, toolkits, guides and gizmos  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Swift](https://github.com/matteocrippa/awesome-swift)   |    A collaborative list of awesome Swift libraries and resources   |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
-
+|   [V](https://github.com/vlang/awesome-v)                    | A curated list of awesome V frameworks, libraries, software and resources.                                                                    | [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode)         |
 
 ### Projects
 Repository  |   Description |   License |
