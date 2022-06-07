@@ -43,6 +43,8 @@
 Repository  |   Description |   License |
 |---|---|---|
 |   [Public-Apis](https://github.com/public-apis/public-apis)  |   A collective list of free APIs  |   [MIT](https://github.com/public-apis/public-apis/blob/master/LICENSE) |
+|   [GraphQL-Apis](https://github.com/IvanGoncharov/graphql-apis)  |   📜 A collective list of public GraphQL APIs  |   [MIT](https://github.com/public-apis/public-apis/blob/master/LICENSE) |
+
 
 
 ### Artificial Intelligence
