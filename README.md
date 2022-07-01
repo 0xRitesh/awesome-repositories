@@ -19,6 +19,7 @@
 
   - [API](#api)
   - [Artificial Intelligence](#Artificial-Intelligence)
+  - [Awesome](#Awesome)
   - [Books](#books)
   - [Competitive Programming](#Competitive-Programming)
   - [CheatSheets](#cheatsheets)
@@ -52,7 +53,6 @@ Repository  |   Description |   License |
 |---|---|---|
 |   [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)  |    A curated list of awesome Machine Learning frameworks, libraries and software   |    [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |[handson-ml](https://github.com/ageron/handson-ml2)|A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning| [Apache-2.0](https://github.com/ageron/handson-ml2/blob/master/LICENSE) |
-
 
 
 ### Books
